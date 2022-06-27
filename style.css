@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: blue;
+}
+#select_id{
+    background:lightsteelblue;
+}
+#search_btn{
+    background-color:lightgreen;
+}
+#box_id{
+    height: 80vh;
+    border: 1px solid black;
+    background:url(https://getwallpapers.com/wallpaper/full/9/7/2/165390.jpg);
+    background-attachment: fixed;
+    
+}
